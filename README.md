@@ -11,3 +11,5 @@
 | 8  | Query a subset of products    | **technical debt** |
 | 9  | Cloud hosting                 | enhancement        |
 | 10 | Automated deployment          | enhancement        |
+
+Given [context], When [action], Then [expected result]
